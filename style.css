@@ -176,7 +176,7 @@ input[type="submit"]:active
 {
 	section span 
 	{
-		width: calc(20vw - 2px);
-		height: calc(20vw - 2px);
+		width: calc(50vw - 2px);
+		height: calc(50vw - 2px);
 	}
 }
